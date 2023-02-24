@@ -10,8 +10,7 @@ const gadgets=[
 
 const which5k=gadgets.find(x=>x.price===5000);
 console.log(which5k);
-
-
 /*
 ৭.৫ [এক্সট্রা] জাভাস্ক্রিপ্ট এ array এর map, forEach, filter, find কোনটা দিয়ে কি হয়। সেটার একটা সামারি লিখে ফেলো। 
 */
+
