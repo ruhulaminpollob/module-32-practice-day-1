@@ -12,3 +12,10 @@ const student={
         watch:'sumsung'
     }
 }
+
+/*
+১২. উপরের অবজেক্ট এ ডট এর আগে যে প্রশ্নবোধক চিহ্ন দিয়ে যে অপশনাল চেইনিং করা যায়। সেটা একটু প্রাকটিস করো। 
+*/
+
+const optionalChaining=student?.gadget?.phone[1];
+console.log(optionalChaining);
